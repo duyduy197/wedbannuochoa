@@ -1,0 +1,123 @@
+
+header nav ul .menu{
+    width: 30%;
+}
+.logo{
+    margin: auto;
+}
+.float-left{
+    width: 30%;
+}
+.float-right{
+    width: 30%;
+}
+header ul.menu li{
+    position: relative;
+    display: inline;
+    font-size: 14px;
+    font-weight: bolder;
+}
+header ul.menu li a{
+    position: relative;
+    display: inline-block;
+    line-height: 45px;
+    padding: 0 8px;
+    color: black;
+    text-decoration: underline solid;
+}
+header ul.menu li a:hover{
+    color: gray;
+}
+header ul.menu li a:hover{
+    color: gray;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+nav{
+    background-color:white;
+    text-align: center;
+    color: #666;
+    font-size: 1.5rem;
+    font-family: 'josefin sans';
+    cursor: pointer;
+    text-rendering: optimizeLegibility;
+    float: none;
+    display: block;
+    width: 100%;
+}
+.box{
+    border: 1px solid gray;
+    padding: 30px;
+    margin: 10px;
+    background-color: grey;
+    color: white;
+}
+button{
+    width: 197px;
+    height: 50px;  
+}
+.company-info{
+    text-align: center;
+    color: white;
+    padding: 70px;
+}
+footer{
+    float: left;
+    width: 100%;
+    background-color: #000;
+    height: 500px;
+}
+.row{
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+    color: white;
+}
+.boxcenter{
+    width: 50%;
+    margin: 0 auto;
+}
+.boxfooter1{
+    width: 33.3%;
+    float: left;
+}
+.boxfooter2{
+    width: 33.3%;
+    float: left;
+}
+.boxfooter3{
+    width: 33.3%;
+    float: left;
+}
+.textcenter{
+    text-align: center;
+}
+.add{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+.mua{
+    text-align: center;
+}
+.dachon > aside{
+    width: 60%;
+    background-color: white;
+    float: left;
+    height: 300px;  
+}
+.mua{
+    width: 40%;
+    background-color: white;
+    float: right;
+    height: 260px;
+    padding-top: 40px;
+    font-size: 40px;
+    margin: 0 auto;
+    text-align: left;
+}

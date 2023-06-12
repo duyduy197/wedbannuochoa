@@ -1,0 +1,118 @@
+
+.logo{
+    margin: auto;
+}
+.float-left{
+    width: 30%;
+}
+.float-right{
+    width: 30%;
+}
+header ul.menu li{
+    position: relative;
+    display: inline;
+    font-size: 14px;
+    font-weight: bolder;
+}
+header ul.menu li a{
+    position: relative;
+    display: inline-block;
+    line-height: 45px;
+    padding: 0 8px;
+    color: black;
+    text-decoration: underline solid;
+}
+header ul.menu li a:hover{
+    color: gray;
+}
+header ul.menu li a:hover{
+    color: gray;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+nav{
+    background-color:white;
+    text-align: center;
+    color: #666;
+    font-size: 1.5rem;
+    font-family: 'josefin sans';
+    cursor: pointer;
+    text-rendering: optimizeLegibility;
+    float: none;
+    display: block;
+    width: 100%;
+}
+.chitiet > aside{
+    min-width: 323px;
+    width: 50%;
+    background-color:white;
+    float: left;
+    height: 1400px;  
+}
+.content3{
+    width: 50%;
+    background-color:white;
+    float: right;
+    height: 1400px;
+}
+.mota{
+    margin: 0 50px;
+}
+.css{
+    float: left;
+    margin: 100px;
+}
+.noibat{
+    margin: 40px;
+    text-align: center;
+}
+button{
+    width: 197px;
+    height: 50px;  
+    margin: 50px;
+}
+.company-info{
+    text-align: center;
+    color: white;
+    padding: 70px;
+}
+footer{
+    float: left;
+    width: 100%;
+    background-color: #000;
+}
+.row{
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+    color: white;
+}
+.boxcenter{
+    width: 50%;
+    margin: 0 auto;
+}
+.boxfooter1{
+    width: 33.3%;
+    float: left;
+}
+.boxfooter2{
+    width: 33.3%;
+    float: left;
+}
+.boxfooter3{
+    width: 33.3%;
+    float: left;
+}
+.textcenter{
+    text-align: center;
+}
+.add{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
